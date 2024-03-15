@@ -2,7 +2,7 @@
 
 > **Authors**: [Ziyuan Cao](https://github.com/Ziyuan-Cao), [Tomohiko Mukai](https://github.com/TomohikoMukai)
 >
-> **Affiliations**: Tokyo Metropolitan University, Silicon Studio
+> **Affiliations**: Tokyo Metropolitan University
 
 [[Video]](https://www.youtube.com/watch?v=LyW50RFzJOs&feature=youtu.be)
 
